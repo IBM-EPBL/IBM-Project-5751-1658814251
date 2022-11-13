@@ -18,4 +18,7 @@ The ticket collectors can scan the QR code to identify the personal details.
 A GPS module is present in the train to track it. The live status of the journey is updated in the Web app continuously
 All the booking details of the customers will be stored in the database with a unique ID and they can be retrieved back when the Ticket Collector scans the QR Code.
 
+![image](https://user-images.githubusercontent.com/113233320/201532723-61337c5d-e90d-4492-9ae9-d136d450e0cb.png)
+
+
 Team : S.SAHITH AFRIDI, B.SANJAY, A.PALANIYAPPAN, M.DIWAKAR
