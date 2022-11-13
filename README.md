@@ -1,5 +1,5 @@
 # IBM-Project-5751-1658814251
-# Smart Solutions for Railways using Internet of Things
+# Smart Solutions for Railways 
 
 Category: 
 Internet Of Things
